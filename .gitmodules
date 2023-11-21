@@ -1,0 +1,6 @@
+[submodule "shipstick_backend"]
+	path = shipstick_backend
+	url = git@github.com:ant-camp/shipstick_backend.git
+[submodule "shipstick_frontend"]
+	path = shipstick_frontend
+	url = git@github.com:ant-camp/shipstick_frontend.git
